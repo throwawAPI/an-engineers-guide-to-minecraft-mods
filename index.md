@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+---
+# Mods Guides
+{% include mod_links.html %}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/throwawAPI/an-engineers-guide-to-minecraft-mods/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
